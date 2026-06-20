@@ -1,0 +1,31 @@
+SUBSCRIPTION FAQ
+
+Q: What plans are available?
+A: We offer three plans — Starter, Professional, and Enterprise. Visit our pricing page for details.
+
+Q: Can I switch plans?
+A: Yes. Upgrades are immediate and prorated. Downgrades take effect at the next billing cycle.
+
+Q: Is there a free trial?
+A: Yes, a 14-day free trial is available for the Professional plan. No credit card required.
+
+Q: How do I cancel my subscription?
+A: Go to Account > Subscription > Cancel Subscription. Your access continues until the end of the billing period.
+
+Q: Will I get a refund if I cancel early?
+A: Monthly plans are non-refundable. Annual plans may qualify for a prorated refund within 30 days of purchase.
+
+Q: Can I pause my subscription?
+A: Pausing is available for Professional and Enterprise plans. Contact support to request a pause.
+
+Q: How many users are included?
+A: Starter: 1 user. Professional: up to 10 users. Enterprise: unlimited users.
+
+Q: What happens to my data if I cancel?
+A: Your data is retained for 30 days after cancellation. You can export it from Account > Data > Export.
+
+Q: Can I get an annual invoice?
+A: Yes. Switch to annual billing in Account > Billing to receive a single annual invoice.
+
+Q: How do I add more users?
+A: Go to Account > Team > Invite Members. Additional user seats may incur extra charges on some plans.

@@ -1,0 +1,30 @@
+BILLING POLICY
+
+Billing Cycle
+- Subscriptions are billed monthly or annually depending on the selected plan.
+- Billing date is set on the day of initial subscription activation.
+
+Payment Methods
+- Accepted: Visa, MasterCard, American Express, PayPal
+- Payments are processed securely via Stripe
+
+Late Payments
+- A grace period of 7 days is provided after a missed payment.
+- Services may be suspended after the grace period expires.
+- A late fee of $5 or 2% of the outstanding amount (whichever is greater) may apply.
+
+Invoices
+- Invoices are emailed automatically on each billing date.
+- Past invoices are available in Account > Billing > Invoice History.
+
+Plan Changes
+- Upgrades take effect immediately; charges are prorated.
+- Downgrades take effect at the start of the next billing cycle.
+
+Taxes
+- Applicable taxes (e.g., VAT, GST) are added based on your billing address.
+- Tax-exempt customers must submit a valid exemption certificate.
+
+Disputes
+- Billing disputes must be submitted within 30 days of the charge.
+- Contact billing@support.example.com with your invoice number and issue description.
