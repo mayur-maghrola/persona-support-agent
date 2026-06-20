@@ -4,10 +4,10 @@ from google.genai import types
 
 from src.config import GEMINI_API_KEY
 
-client = genai.Client(api_key=GEMINI_API_KEY)
-
 
 def classify_customer_persona(user_message: str) -> dict:
+
+    client = genai.Client(api_key=GEMINI_API_KEY)
     """
     Classify user into:
     - Technical Expert
