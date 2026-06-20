@@ -1,7 +1,6 @@
 streamlit
 google-genai
-chromadb==0.4.24
+chromadb==0.5.23
 python-dotenv
 sentence-transformers
 langchain-text-splitters
-protobuf==3.20.3
