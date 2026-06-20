@@ -1,9 +1,15 @@
 import os
-from dotenv import load_dotenv
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 
-load_dotenv()
-
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+try:
+    import streamlit as st
+    GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
+except Exception:
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 CHROMA_DB_PATH = "./chroma_db"
 
